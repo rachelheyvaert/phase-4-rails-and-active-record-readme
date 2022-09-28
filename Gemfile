@@ -24,6 +24,18 @@ group :development do
   gem 'listen', '~> 3.3'
 end
 
+gem 'sqlite3', '~> 1.4'
+
+# gem 'puma-5.2.2'
+
+# gem "byebug-11.1.3"
+# gem "nio4r-2.5.7"
+# gem "websocket-driver-0.7.3"
+# gem "nokogiri-1.11.3-x86_64-darwin"
+# gem "ffi-1.15.0"
+# gem "racc-1.5.2"
+
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
